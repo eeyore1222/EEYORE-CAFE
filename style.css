@@ -1,0 +1,22 @@
+.containter {
+  background: #cccccc;
+}
+
+.carousel-item img {
+  height: 600px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.card img {
+  height: 500px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.card-deck img {
+  height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+/*# sourceMappingURL=style.css.map */
